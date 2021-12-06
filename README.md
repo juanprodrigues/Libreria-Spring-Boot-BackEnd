@@ -9,7 +9,7 @@ _Clonar repositorio en su computadora._
  
  
 ```
-$ git clone https://github.com/libgit2/libgit2
+$ git clone https://github.com/juanprodrigues/Libreria-Spring-Boot-BackEnd.git
  
 ```
  
